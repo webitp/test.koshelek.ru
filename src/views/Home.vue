@@ -2,7 +2,7 @@
   <v-container>
     <h1>Главная</h1>
     <v-row class="mt-3">
-      <v-col width="50%">
+      <v-col>
         <v-card>
           <v-card-text>
             <v-tabs>
