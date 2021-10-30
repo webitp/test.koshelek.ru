@@ -25,10 +25,6 @@ export default {
         }
       }
     },
-    
-    setItems({ commit }, payload) {
-      commit('setItems', payload)
-    },
 
     addToFavourite(ctx, payload) {
       var item = payload;
